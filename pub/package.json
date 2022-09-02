@@ -1,0 +1,21 @@
+{
+  "author": "Corno",
+  "description": "boolean algebra",
+  "files": [
+    "dist"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "api-pareto-boolean",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/corno/api-pareto-boolean.git"
+  },
+  "types": "dist/index.d.ts",
+  "version": "0.1.0",
+  "dependencies": {
+    "pareto-core-types": "^0.2.0"
+  },
+  "interface-fingerprint": "792f9755953a16844adbbfdf30757730cefaf825",
+  "content-fingerprint": "1f1c590f6ceb90662a7f97c8bfd128f115687814"
+}
