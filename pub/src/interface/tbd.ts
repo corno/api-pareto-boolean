@@ -22,3 +22,5 @@ export type Equal = ($: {
     this: number,
     that: number
 }) => boolean
+
+export type IsZero = ($: number) => boolean
