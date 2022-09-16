@@ -1,4 +1,4 @@
-import { TBooleanRange } from "../types/all"
+import { TBooleanRange } from "../types/BooleanRange.p"
 
 export type FAnd = ($: TBooleanRange) => boolean
 
