@@ -16,6 +16,6 @@
   "dependencies": {
     "pareto-core-types": "^0.6.0"
   },
-  "interface-fingerprint": "1581d55000a9dd312a761e6f9f89a1a349f251b0",
-  "content-fingerprint": "946d36c260dc0773b72ac18a2f918bf0b44e1dbf"
+  "interface-fingerprint": "05219392f065132952c2e9e939a4340fc355b4c6",
+  "content-fingerprint": "568ae3babfd01994e9c6e9d80ea758da996ddeaf"
 }
